@@ -1,4 +1,4 @@
-package java.util.stream;
+package com.example.stream;
 
 import java.util.Arrays;
 import java.util.PrimitiveIterator;
