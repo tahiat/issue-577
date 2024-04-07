@@ -1,0 +1,7 @@
+error: Incomparable types ( T extends @Initialized @Nullable Object, @Initialized @NonNull int @Initialized @NonNull [])visitHistory = 
+VisitHistory(  )
+  Compilation unit: Imcop.java
+  Exception: java.lang.Throwable; Stack trace: org.checkerframework.framework.source.SourceChecker.errorAbort(SourceChecker.java:683)
+org.checkerframework.javacutil.ErrorReporter.errorAbort(ErrorReporter.java:28)
+org.checkerframework.framework.type.visitor.AbstractAtmComboVisitor.defaultAction(AbstractAtmComboVisitor.java:36)
+org.checkerframework.framework.type.visitor.AbstractAtmComboVisitor.visitTypevar_Array(AbstractAtmComboVisitor.java:444)
